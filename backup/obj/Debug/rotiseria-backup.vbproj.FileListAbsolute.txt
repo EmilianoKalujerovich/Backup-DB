@@ -1,0 +1,11 @@
+C:\Users\Emiliano\Desktop\Rotiseria\rotiseriaBackup\rotiseria-backup\camaracomercio-backup\bin\Debug\camaracomercio-backup.exe.config
+C:\Users\Emiliano\Desktop\Rotiseria\rotiseriaBackup\rotiseria-backup\camaracomercio-backup\bin\Debug\camaracomercio-backup.exe
+C:\Users\Emiliano\Desktop\Rotiseria\rotiseriaBackup\rotiseria-backup\camaracomercio-backup\bin\Debug\camaracomercio-backup.pdb
+C:\Users\Emiliano\Desktop\Rotiseria\rotiseriaBackup\rotiseria-backup\camaracomercio-backup\bin\Debug\camaracomercio-backup.xml
+C:\Users\Emiliano\Desktop\Rotiseria\rotiseriaBackup\rotiseria-backup\camaracomercio-backup\obj\Debug\camaracomercio_backup.Resources.resources
+C:\Users\Emiliano\Desktop\Rotiseria\rotiseriaBackup\rotiseria-backup\camaracomercio-backup\obj\Debug\rotiseria-backup.vbproj.GenerateResource.cache
+C:\Users\Emiliano\Desktop\Rotiseria\rotiseriaBackup\rotiseria-backup\camaracomercio-backup\obj\Debug\rotiseria-backup.vbproj.CoreCompileInputs.cache
+C:\Users\Emiliano\Desktop\Rotiseria\rotiseriaBackup\rotiseria-backup\camaracomercio-backup\obj\Debug\camaracomercio-backup.exe
+C:\Users\Emiliano\Desktop\Rotiseria\rotiseriaBackup\rotiseria-backup\camaracomercio-backup\obj\Debug\camaracomercio-backup.xml
+C:\Users\Emiliano\Desktop\Rotiseria\rotiseriaBackup\rotiseria-backup\camaracomercio-backup\obj\Debug\camaracomercio-backup.pdb
+C:\Users\Emiliano\Desktop\Rotiseria\rotiseriaBackup\rotiseria-backup\camaracomercio-backup\obj\Debug\rotiseria-backup.vbproj.AssemblyReference.cache
